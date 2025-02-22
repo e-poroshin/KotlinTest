@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IdtTest</string>
+    <string name="search_posts">Search posts</string>
+    <string name="no_items_found">No items found</string>
 </resources>
